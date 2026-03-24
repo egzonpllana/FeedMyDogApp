@@ -4,7 +4,7 @@
 
 If you need help, have questions, or want to report a bug, please reach out:
 
-**Email:** support@feedmydog.app
+**GitHub Issues:** [Open an issue](https://github.com/egzonpllana/FeedMyDogApp/issues)
 
 ## Common Topics
 
@@ -36,4 +36,4 @@ When reporting a bug, please include:
 - Steps to reproduce the issue
 - Screenshots if applicable
 
-Email bug reports to: support@feedmydog.app
+Report bugs via [GitHub Issues](https://github.com/egzonpllana/FeedMyDogApp/issues)

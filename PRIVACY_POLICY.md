@@ -40,4 +40,4 @@ Feed My Dog: AI Meal Planner does not knowingly collect information from childre
 
 ## 9. Contact Us
 
-If you have questions about this Privacy Policy, please contact us at support@feedmydog.app.
+If you have questions about this Privacy Policy, [open an issue on GitHub](https://github.com/egzonpllana/FeedMyDogApp/issues).

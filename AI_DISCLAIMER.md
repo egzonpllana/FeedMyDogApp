@@ -38,4 +38,4 @@ By continuing to use Feed My Dog: AI Meal Planner, you confirm that you have rea
 
 ## 9. Contact
 
-For questions about this AI Disclaimer, contact us at support@feedmydog.app.
+For questions about this AI Disclaimer, [open an issue on GitHub](https://github.com/egzonpllana/FeedMyDogApp/issues).

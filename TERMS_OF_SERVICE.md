@@ -57,4 +57,4 @@ We reserve the right to update these terms at any time. Continued use of the app
 
 ## 10. Contact
 
-For questions about these Terms of Service, contact us at support@feedmydog.app.
+For questions about these Terms of Service, [open an issue on GitHub](https://github.com/egzonpllana/FeedMyDogApp/issues).
